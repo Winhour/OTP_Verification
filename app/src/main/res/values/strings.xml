@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">OTP_Verification</string>
+    <string name="wer_otp">Weryfikacja OTP</string>
+    <string name="zostanie_przys_ane_jednorazowe_has_o_na_ten_numer_telefonu">Zostanie przysłane jednorazowe hasło na ten numer telefonu</string>
+    <string name="podaj_numer_telefonu">Podaj numer telefonu</string>
+    <string name="_48">+48-</string>
+    <string name="_1234567890">1234567890</string>
+    <string name="wy_lij_otp">WYŚLIJ OTP</string>
+    <string name="wprowad_przys_ane_otp">Wprowadź OTP przysłane do</string>
+    <string name="nie_otrzymano_otp">Nie otrzymano OTP?</string>
+    <string name="prze_lij_otp">PRZEŚLIJ OTP</string>
+    <string name="weryfikuj">WERYFIKUJ</string>
+</resources>
